@@ -22,7 +22,7 @@ LAMP stands for Linux, Apache, MySQL, and PHP.
 - Built a PHP page that retrieves and displays a message from MySQL.
 
 ## Results
-
+![Working LAMP lab displaying a message from MySQL](LAMPsuccess.png)
 Apache and MySQL were running successfully. The PHP test page displayed “PHP is working!” and the database test page displayed “My LAMP lab is working!”
 
 This verified that Apache, PHP, and MySQL worked together.
